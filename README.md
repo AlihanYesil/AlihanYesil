@@ -11,7 +11,6 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=AlihanYesil&include_all_commits=true&count_private=true&hide=stars&show_icons=true&include_all_commits=true&line_height=28&title_color=3D0C02&text_color=3D0C02&icon_color=191970&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=tr&border_radius=8&card_width=300) 
 
 
-
 <!---
 <a href="https://github.com/anuraghazra/alihanyesil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alihanyesil&repo=GetMessage&show_owner=true" />
