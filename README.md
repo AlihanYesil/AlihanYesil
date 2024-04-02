@@ -10,7 +10,14 @@
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=AlihanYesil&include_all_commits=true&count_private=true&hide=stars&show_icons=true&include_all_commits=true&line_height=28&title_color=3D0C02&text_color=3D0C02&icon_color=191970&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=tr&border_radius=8&card_width=300) 
 
-
+## :mailbox: How to reach me :
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:alihannyesil@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/alihanyesil/)
+[<img src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/alihanyesil)
+[<img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"/>](https://twitter.com/alihanyesil)
+[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/alihanyesiil)
+[<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/)
+[<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/)
 <!---
 <a href="https://github.com/anuraghazra/alihanyesil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alihanyesil&repo=GetMessage&show_owner=true" />
